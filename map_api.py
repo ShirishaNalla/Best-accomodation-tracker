@@ -1,4 +1,4 @@
-import json  
+import json   
 import pandas as pd  
 import requests
 from tabulate import tabulate
